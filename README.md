@@ -31,6 +31,7 @@ I am a Senior Technician in Systems Analysis, expanding my knowledge in both fro
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
+<h4>Repository Statistics</h4>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGomez08&layout=compact&theme=dark)
 
 
