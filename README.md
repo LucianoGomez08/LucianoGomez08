@@ -31,6 +31,15 @@ I am a Senior Technician in Systems Analysis, expanding my knowledge in both fro
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
+<h4>My social networks</h4>
+<a href="https://www.youtube.com/@lucianogomez882">
+  <img src="https://www.youtube.com/@lucianogomez882" alt="Youtube">
+</a>
+<a href="https://www.instagram.com/gomezlucho08/">
+  <img src="https://www.instagram.com/gomezlucho08/" alt="Youtube">
+</a>
+
+
 
 
  
