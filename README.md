@@ -11,8 +11,6 @@ I am a Senior Technician in Systems Analysis, expanding my knowledge in both fro
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="luciano.gomez.hernan08@gmail.com">luciano.gomez.hernan08@gmail.com</a>
 
-##Mis Habilidades incluyen
-
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
